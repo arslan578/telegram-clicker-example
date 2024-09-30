@@ -1,7 +1,6 @@
 ../.idea
 .ipynb_checkpoints
 .mypy_cache
-.vscode
 __pycache__
 .pytest_cache
 htmlcov
@@ -271,3 +270,7 @@ artifacts/
 
 /report.xml
 my_dumps
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
